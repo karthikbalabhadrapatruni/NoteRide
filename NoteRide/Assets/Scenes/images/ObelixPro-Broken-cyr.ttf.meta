@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: e666a2b32719b8d4a8add566fe12b46d
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ObelixProBroken
+  fontNames:
+  - ObelixProBroken
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c96c3c1358ca0484e8a8f7d8a86d2bdc, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

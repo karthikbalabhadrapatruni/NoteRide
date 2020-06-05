@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Scenes/main_menu.unity
+  - enabled: 1
+    path: Assets/loadingpage/loading.unity
+  - enabled: 1
+    path: Assets/Scenes/Scenes/NoteRide.unity
+  - enabled: 1
+    path: Assets/Scenes/Scenes/Options.unity
+  - enabled: 1
+    path: Assets/Scenes/Scenes/pencil_select.unity
+  - enabled: 1
+    path: Assets/Scenes/Scenes/scenes.unity
+  - enabled: 1
+    path: Assets/Scenes/Scenes/lampscene.unity
+  - enabled: 1
+    path: Assets/Scenes/Scenes/settings.unity
+  - enabled: 1
+    path: Assets/Scenes/Scenes/bridgescene.unity
+  - enabled: 1
+    path: Assets/Scenes/Scenes/erasers.unity
+  - enabled: 1
+    path: Assets/Scenes/Scenes/gameend/highscore.unity
+  - enabled: 1
+    path: Assets/Scenes/Scenes/gameend/newhighscore.unity

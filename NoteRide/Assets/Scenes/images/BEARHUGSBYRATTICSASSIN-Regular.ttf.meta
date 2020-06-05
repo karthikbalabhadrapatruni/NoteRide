@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: e9284d1bfa3e3494eab7b17a2d1b8b30
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BEAR HUGS BY RATTICSASSIN
+  fontNames:
+  - BEAR HUGS BY RATTICSASSIN
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 720d9c6292c05db4a8282e9d30695d77, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

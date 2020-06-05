@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 74fea99682c57be43ab4b4118112764f
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Mona Shark
+  fontNames:
+  - Mona Shark
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c82e0aa5644ed7a458d2c70c23bee4b2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
